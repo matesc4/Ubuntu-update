@@ -3,7 +3,7 @@
 # this script updates your centOs machine:
 # source ~/updatecentos.sh
 
-# created by Matej Scibravy on 6 Sep 2019
+# created by matesc4 on 6 Sep 2019
 # Version: 1.0
 # last edited on 24 Nov 2019
 
