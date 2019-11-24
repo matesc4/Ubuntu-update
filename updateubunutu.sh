@@ -1,7 +1,7 @@
 #!/usr/bin/zsh
 
 ## Ubuntu update file with zsh and zprezto-update
-## source ~/.update.sh
+## source ~/.updateubunutu.sh
 
 myreturn (){
 if [[ $1 != "0" ]]; then
