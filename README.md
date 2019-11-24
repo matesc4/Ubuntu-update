@@ -1,1 +1,1 @@
-# Ubuntu-update
+Script update collection
