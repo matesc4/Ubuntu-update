@@ -1,7 +1,7 @@
 #!/usr/local/bin/zsh
 
 ## updates mac with brew / cask and zpresto-update
-## source ~/updateall.sh || echo $?
+## source ~/updatemac.sh || echo $?
 
 
 myreturn (){
